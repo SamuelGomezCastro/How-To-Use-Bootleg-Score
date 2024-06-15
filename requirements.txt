@@ -9,11 +9,9 @@ seaborn==0.12.2
 Cython==0.29.34
 plotly==5.9.0
 kaleido==0.2.1
-
 fastdtw~=0.3.4
 librosa~=0.10.1
 pillow~=10.1.0
-selenium~=4.17.2
 bs4~=0.0.2
 beautifulsoup4~=4.12.3
 pypdf2~=2.10.5
